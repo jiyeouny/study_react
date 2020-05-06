@@ -1,1 +1,1 @@
-study_react
+Study React
